@@ -1,0 +1,23 @@
+{
+  "name": "mybotjs",
+  "version": "1.0.0",
+  "description": "slackbot which tells jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ultare1717/MyBotJS.git"
+  },
+  "author": "Mohammed Ozair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ultare1717/MyBotJS/issues"
+  },
+  "homepage": "https://github.com/Ultare1717/MyBotJS#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "slackbots": "^1.2.0"
+  }
+}
